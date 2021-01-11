@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Connect Tutoring</title>
-	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://meliaalcan.github.io/testrepo/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://meliaalcan.github.io/testrepo</link>
 	<description>For Students, By Students</description>
 	<lastBuildDate>Mon, 11 Jan 2021 02:59:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/2021/01/11/hello-world/</link>
-					<comments>/2021/01/11/hello-world/#comments</comments>
+		<link>https://meliaalcan.github.io/testrepo/2021/01/11/hello-world/</link>
+					<comments>https://meliaalcan.github.io/testrepo/2021/01/11/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[wp]]></dc:creator>
 		<pubDate>Mon, 11 Jan 2021 02:59:23 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://meliaalcan.github.io/testrepo/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/01/11/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meliaalcan.github.io/testrepo/2021/01/11/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

@@ -401,7 +401,7 @@ blockquote {
 }
 
 blockquote:before {
-	background: url("/wp-content/themes/scratchpad/images/icon-sprites.svg") 0 -408px no-repeat;
+	background: url("https://meliaalcan.github.io/testrepo/wp-content/themes/scratchpad/images/icon-sprites.svg") 0 -408px no-repeat;
 	background-size: 100%;
 	content: "";
 	display: block;
@@ -607,7 +607,7 @@ textarea {
 }
 
 .search-form label:before {
-	background: url("/wp-content/themes/scratchpad/images/icon-sprites.svg") center 8px no-repeat;
+	background: url("https://meliaalcan.github.io/testrepo/wp-content/themes/scratchpad/images/icon-sprites.svg") center 8px no-repeat;
 	background-size: 25px;
 	content: "";
 	display: block;
@@ -2887,7 +2887,7 @@ article .mejs-container.mejs-audio .mejs-controls .mejs-time {
 
 article .mejs-container .mejs-controls .mejs-button button,
 article .mejs-container.mejs-audio .mejs-controls .mejs-button button {
-	background: url("/wp-content/themes/scratchpad/images/icon-sprites.svg") no-repeat;
+	background: url("https://meliaalcan.github.io/testrepo/wp-content/themes/scratchpad/images/icon-sprites.svg") no-repeat;
 	background-size: 100%;
 }
 
@@ -3141,7 +3141,7 @@ iframe[src*='bandcamp'] {
 	-webkit-animation: infiniteSpinning 0.8s infinite linear;
 	-ms-animation: infiniteSpinning 0.8s infinite linear;
 	animation: infiniteSpinning 0.8s infinite linear;
-	background: url("/wp-content/themes/scratchpad/images/icon-sprites.svg") 0 -182px no-repeat;
+	background: url("https://meliaalcan.github.io/testrepo/wp-content/themes/scratchpad/images/icon-sprites.svg") 0 -182px no-repeat;
 	background-size: 100%;
 	content: "";
 	display: block;
@@ -4412,7 +4412,7 @@ iframe[src*='bandcamp'] {
 	}
 
 	.menu-toggle:before {
-		background: url("/wp-content/themes/scratchpad/images/icon-sprites.svg") 0 -98px no-repeat;
+		background: url("https://meliaalcan.github.io/testrepo/wp-content/themes/scratchpad/images/icon-sprites.svg") 0 -98px no-repeat;
 		background-size: 100%;
 		content: "";
 		display: inline-block;
